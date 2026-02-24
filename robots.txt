@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourgithubusername.github.io/sitemap.xml
+Sitemap: https://topprioritysalon33071.github.io/Top-Priority-Salon-The-Perfect-Threading-and-Glow-By-Simi-/sitemap.xml
